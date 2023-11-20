@@ -5,7 +5,6 @@
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
 </tr>
 <tr>
-  <td> <img src=![](./data/1_wPOS.gif)></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
