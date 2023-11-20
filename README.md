@@ -6,7 +6,7 @@
 </tr>
 <tr>
   <td> ![](./data/1_wPOS.gif) </td>
-  <td><img src="https://github.com/StevensXu/demo/tree/main/data/A man is speaking in front of the blackboard_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/tree/main/data/1_wPOS.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
 </tr>
