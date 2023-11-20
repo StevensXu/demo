@@ -1,13 +1,11 @@
 # Video qualitative results
 ## Real-World Videos(ModelScope)
-![](./data/A man is speaking in front of the blackboard_wPOS.gif)
-
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
 </tr>
 <tr>
-  <td> ![123](./data/A man is speaking in front of the blackboard_wPOS.gif) </td>
+  <td> ![](./data/1_wPOS.gif) </td>
   <td><img src="https://github.com/StevensXu/demo/tree/main/data/A man is speaking in front of the blackboard_wPOS.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
