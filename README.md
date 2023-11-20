@@ -1,5 +1,7 @@
 # Video qualitative results
 ## Real-World Videos(ModelScope)
+![](./data/A man is speaking in front of the blackboard_wPOS.gif)
+
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
