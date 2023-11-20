@@ -5,7 +5,7 @@
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
 </tr>
 <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
+  <td><img src="https://demo.github.io/data/A man is speaking in front of the blackboard_wPOS.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
   <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
