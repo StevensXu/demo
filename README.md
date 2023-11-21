@@ -12,7 +12,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/10_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/12_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/121_woPOS.gif"></td>
 </tr>
 <!-- <tr>
   <td width=25% style="text-align:center;">"A man is speaking in front of the blackboard"</td>
