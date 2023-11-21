@@ -140,4 +140,110 @@
 </table>
   
 
-### Image qualitative results
+# Image qualitative results
+## SD-v1.5
+
+<table class="center">
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"A close-up of a knife and a cup on a surface"</td>
+  <td width=25% style="text-align:center;">"A person is riding a dirt bike along a path"</td>
+  <td width=25% style="text-align:center;">"A mirror shot of a dog sitting in a car"</td>
+  <td width=25% style="text-align:center;">"A piece of dutch chocolate cake with a fork on a plate"</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"A close-up of a knife and a cup on a surface"</td>
+  <td width=25% style="text-align:center;">"A person is riding a dirt bike along a path"</td>
+  <td width=25% style="text-align:center;">"A mirror shot of a dog sitting in a car"</td>
+  <td width=25% style="text-align:center;">"A piece of dutch chocolate cake with a fork on a plate"</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"A black and white cat laying in green vegetation"</td>
+  <td width=25% style="text-align:center;">"A sculpture of a man reading a newspaper sitting at a bench"</td>
+  <td width=25% style="text-align:center;">"A woman is sitting in front of a desk"</td>
+  <td width=25% style="text-align:center;">"A person sitting on a bench with a view of a body of water"</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"A black and white cat laying in green vegetation"</td>
+  <td width=25% style="text-align:center;">"A sculpture of a man reading a newspaper sitting at a bench"</td>
+  <td width=25% style="text-align:center;">"A woman is sitting in front of a desk"</td>
+  <td width=25% style="text-align:center;">"A person sitting on a bench with a view of a body of water"</td>
+</tr>
+</table>
+
+## SD-XL
+
+<table class="center">
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"A bird walking through a cafeteria next to a table"</td>
+  <td width=25% style="text-align:center;">"A dog sitting in the front seat of a truck"</td>
+  <td width=25% style="text-align:center;">"A man that is sitting at a desk with a pen and laptop"</td>
+  <td width=25% style="text-align:center;">"An adult giraffe standing near a white duck in a field of grass"</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"A bird walking through a cafeteria next to a table"</td>
+  <td width=25% style="text-align:center;">"A dog sitting in the front seat of a truck"</td>
+  <td width=25% style="text-align:center;">"A man that is sitting at a desk with a pen and laptop"</td>
+  <td width=25% style="text-align:center;">"An adult giraffe standing near a white duck in a field of grass"</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"Horses stand around on a neighborhood street in front of a car"</td>
+  <td width=25% style="text-align:center;">"A man is on a bench in front of a steeple tower"</td>
+  <td width=25% style="text-align:center;">"Two giraffes in a zoo enjoy a walk and a snack"</td>
+  <td width=25% style="text-align:center;">"A man fixing a tire for a motorcycle"</td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">"Horses stand around on a neighborhood street in front of a car"</td>
+  <td width=25% style="text-align:center;">"A man is on a bench in front of a steeple tower"</td>
+  <td width=25% style="text-align:center;">"Two giraffes in a zoo enjoy a walk and a snack"</td>
+  <td width=25% style="text-align:center;">"A man fixing a tire for a motorcycle"</td>
+</tr>
+</table>
+
