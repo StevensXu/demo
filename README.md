@@ -81,7 +81,7 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/6_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/13_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/151_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/15_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/16_woPOS.gif"></td>
 </tr>
 <!-- <tr>
