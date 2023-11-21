@@ -112,7 +112,7 @@
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/6_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_woPOS.gif"></td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/6_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
 </tr>
 <tr>
