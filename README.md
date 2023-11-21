@@ -133,7 +133,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/14_wPOS.gif" loop></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/141_wPOS.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"An astronaut is riding a horse in the space in a photorealistic style"</td>
