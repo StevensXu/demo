@@ -12,9 +12,9 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A man is speaking in front of the blackboard"</td>
-  <td width=25% style="text-align:center;">"A rabbit is <del>eating a watermelon</del> on the table"</td>
-  <td width=25% style="text-align:center;">"A cat with sunglasses is eating a watermelon on the beach"</td>
-  <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
+  <td width=25% style="text-align:center;">"A couple is watching the sunset on the lawn"</td>
+  <td width=25% style="text-align:center;">"A girl is singing among the flowers"</td>
+  <td width=25% style="text-align:center;">"A woman is doing yoga in the sunset"</td>
 </tr>
 
 <tr>
@@ -28,9 +28,9 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A man is speaking in front of the blackboard"</td>
-  <td width=25% style="text-align:center;">"A rabbit is <del>eating a watermelon</del> on the table"</td>
-  <td width=25% style="text-align:center;">"A cat with sunglasses is eating a watermelon on the beach"</td>
-  <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
+  <td width=25% style="text-align:center;">"A couple is watching the sunset on the lawn"</td>
+  <td width=25% style="text-align:center;">"A girl is singing among the flowers"</td>
+  <td width=25% style="text-align:center;">"A woman is doing yoga in the sunset"</td>
 </tr>
 </table>
 
@@ -49,7 +49,7 @@
   <td width=25% style="text-align:center;">"A panda is driving a car"</td>
   <td width=25% style="text-align:center;">"Monkey learning to play the piano"</td>
   <td width=25% style="text-align:center;">"A paper folding tiger is walking on table"</td>
-  <td width=25% style="text-align:center;">"An astronaut is riding a horse in the space in a photorealistic style"</td>
+  <td width=25% style="text-align:center;">"Unicorns running along a beach."</td>
 </tr>
 
 <tr>
@@ -65,7 +65,7 @@
   <td width=25% style="text-align:center;">"A panda is driving a car"</td>
   <td width=25% style="text-align:center;">"Monkey learning to play the piano"</td>
   <td width=25% style="text-align:center;">"A paper folding tiger is walking on table"</td>
-  <td width=25% style="text-align:center;">"An astronaut is riding a horse in the space in a photorealistic style"</td>
+  <td width=25% style="text-align:center;">"Unicorns running along a beach."</td>
 </tr>
 </table>
 
@@ -82,8 +82,8 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A girl is laughing happily in front of the camera"</td>
-  <td width=25% style="text-align:center;">"A rabbit is <del>eating a watermelon</del> on the table"</td>
-  <td width=25% style="text-align:center;">"A cat with sunglasses is eating a watermelon on the beach"</td>
+  <td width=25% style="text-align:center;">"A boy is laughing happily in front of the camera"</td>
+  <td width=25% style="text-align:center;">"Sea turtle swimming at the bottom of the ocean"</td>
   <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
 </tr>
 
@@ -98,8 +98,8 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A girl is laughing happily in front of the camera"</td>
-  <td width=25% style="text-align:center;">"A rabbit is <del>eating a watermelon</del> on the table"</td>
-  <td width=25% style="text-align:center;">"A cat with sunglasses is eating a watermelon on the beach"</td>
+  <td width=25% style="text-align:center;">"A boy is laughing happily in front of the camera"</td>
+  <td width=25% style="text-align:center;">"Sea turtle swimming at the bottom of the ocean"</td>
   <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
 </tr>
 </table>
@@ -119,7 +119,7 @@
   <td width=25% style="text-align:center;">"An astronaut is riding a horse in the space in a photorealistic style"</td>
   <td width=25% style="text-align:center;">"A bear is dancing in the snow"</td>
   <td width=25% style="text-align:center;">"A panda is playing guitar in the bar"</td>
-  <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
+  <td width=25% style="text-align:center;">"A monkey is reading book in the library"</td>
 </tr>
 
 <tr>
@@ -135,7 +135,7 @@
   <td width=25% style="text-align:center;">"An astronaut is riding a horse in the space in a photorealistic style"</td>
   <td width=25% style="text-align:center;">"A bear is dancing in the snow"</td>
   <td width=25% style="text-align:center;">"A panda is playing guitar in the bar"</td>
-  <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
+  <td width=25% style="text-align:center;">"A monkey is reading book in the library"</td>
 </tr>
 </table>
   
