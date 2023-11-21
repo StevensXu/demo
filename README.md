@@ -145,10 +145,10 @@
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img1_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img2_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img3_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img4_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img1_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img2_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img3_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img4_woPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A close-up of a knife and a cup on a surface"</td>
@@ -157,10 +157,10 @@
   <td width=25% style="text-align:center;">"A piece of dutch chocolate cake with a fork on a plate"</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img1_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img2_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img3_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img4_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img1_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img2_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img3_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img4_wPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A close-up of a knife and a cup on a surface"</td>
@@ -169,10 +169,10 @@
   <td width=25% style="text-align:center;">"A piece of dutch chocolate cake with a fork on a plate"</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_woPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A black and white cat laying in green vegetation"</td>
@@ -181,10 +181,10 @@
   <td width=25% style="text-align:center;">"A person sitting on a bench with a view of a body of water"</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_wPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A black and white cat laying in green vegetation"</td>
@@ -198,10 +198,10 @@
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_woPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A bird walking through a cafeteria next to a table"</td>
@@ -210,10 +210,10 @@
   <td width=25% style="text-align:center;">"An adult giraffe standing near a white duck in a field of grass"</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_wPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A bird walking through a cafeteria next to a table"</td>
@@ -222,10 +222,10 @@
   <td width=25% style="text-align:center;">"An adult giraffe standing near a white duck in a field of grass"</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_woPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"Horses stand around on a neighborhood street in front of a car"</td>
@@ -234,10 +234,10 @@
   <td width=25% style="text-align:center;">"A man fixing a tire for a motorcycle"</td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_wPOS.jpg"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"Horses stand around on a neighborhood street in front of a car"</td>
