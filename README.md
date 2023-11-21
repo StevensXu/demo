@@ -143,7 +143,7 @@ This repository is a display of the results of POS[Paper ID 6768].
 </tr>
 </table>
 
-## Diversity
+## Video Diversity
 ### ModelScope with POS
 <table class="center">
 
