@@ -81,7 +81,7 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/6_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/13_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/15_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/151_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/16_woPOS.gif"></td>
 </tr>
 <!-- <tr>
@@ -97,7 +97,7 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/6_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/13_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/15_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/151_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/16_wPOS.gif"></td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td style="text-align:center;"colspan="4"><b>With POS</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/7_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/71_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/5_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/8_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/141_wPOS.gif"></td>
