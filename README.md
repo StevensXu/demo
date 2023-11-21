@@ -180,7 +180,7 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_woPOS.jpg"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_woPOS.jpg"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_woPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_wPOS.jpg"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_woPOS.jpg"></td>
 </tr>
 <!-- <tr>
@@ -192,7 +192,7 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/img5_wPOS.jpg"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/img6_wPOS.jpg"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_wPOS.jpg"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/img7_woPOS.jpg"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/img8_wPOS.jpg"></td>
 </tr>
 <tr>
