@@ -155,18 +155,21 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity0-2.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity0-3.gif"></td>
 </tr>
+<tr>
+  <td style="text-align:center;"colspan="4"><b>Prompt: A paper folding tiger is walking on table</b></td>
+</tr>
 </table>
 
 ### SCVideo with POS
 <table class="center">
 <tr>
-  <td style="text-align:center;"colspan="4"><b>Prompt: A paper folding tiger is walking on table</b></td>
+  <td style="text-align:center;"colspan="4"><b>Prompt: Monkey learning to play the piano</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity0-0.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity0-1.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity0-2.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity0-3.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/3_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity1-1.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity1-2.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/diversity1-3.gif"></td>
 </tr>
 </table>
 
