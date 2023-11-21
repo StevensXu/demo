@@ -1,5 +1,9 @@
-# Video qualitative results
-## Real-World Videos(ModelScope)
+# POS: A Prompts Optimization Suite for Augmenting Text-to-Video Generation
+
+This repository is a display of the results of POS[Paper ID 6768].
+
+## Video qualitative results
+### Real-World Videos(ModelScope)
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
@@ -34,7 +38,7 @@
 </tr>
 </table>
 
-## UnReal-World Videos(ModelScope)
+### UnReal-World Videos(ModelScope)
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
@@ -69,7 +73,7 @@
 </tr>
 </table>
 
-## Real-World Videos(SCVideo)
+### Real-World Videos(SCVideo)
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
@@ -104,7 +108,7 @@
 </tr>
 </table>
 
-## UnReal-World Videos(SCVideo)
+### UnReal-World Videos(SCVideo)
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Without POS</b></td>
@@ -140,8 +144,8 @@
 </table>
   
 
-# Image qualitative results
-## SD-v1.5
+## Image qualitative results
+### SD-v1.5
 
 <table class="center">
 <tr>
@@ -199,7 +203,7 @@
 </tr>
 </table>
 
-## SD-XL
+### SD-XL
 
 <table class="center">
 <tr>
