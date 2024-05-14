@@ -11,14 +11,14 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/bn_dog.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/bn_elephant.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_woPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/121_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/bn_squirrel.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/bn_sailboat.gif"></td>
 </tr>
 <!-- <tr>
   <td width=25% style="text-align:center;">A dog wearing a Superhero outfit with red cape flying through the sky</td>
   <td width=25% style="text-align:center;">3D model of an elephant origami. Studio lighting</td>
-  <td width=25% style="text-align:center;">A girl is singing among the flowers</td>
-  <td width=25% style="text-align:center;">A woman is doing yoga in the sunset</td>
+  <td width=25% style="text-align:center;">A squirrel eating a burger</td>
+  <td width=25% style="text-align:center;">Sailboat sailing on a sunny day in a mountain lake</td>
 </tr> -->
   
 <tr>
@@ -27,14 +27,14 @@ This repository is a display of the results of POS[Paper ID 6768].
 <tr>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/gn_dog.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/gn_elephant.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_wPOS.gif"></td>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/12_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/gn_squirrel.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/gn_sailboat.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">A dog wearing a Superhero outfit with red cape flying through the sky</td>
   <td width=25% style="text-align:center;">3D model of an elephant origami. Studio lighting</td>
-  <td width=25% style="text-align:center;">A girl is singing among the flowers</td>
-  <td width=25% style="text-align:center;">A woman is doing yoga in the sunset</td>
+  <td width=25% style="text-align:center;">A squirrel eating a burger</td>
+  <td width=25% style="text-align:center;">Sailboat sailing on a sunny day in a mountain lake</td>
 </tr>
 </table>
 
