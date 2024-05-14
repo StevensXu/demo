@@ -9,7 +9,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td style="text-align:center;"colspan="4"><b>Bad initial noise</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/bn_dog.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/10_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_woPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/121_woPOS.gif"></td>
@@ -25,7 +25,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td style="text-align:center;"colspan="4"><b>Good initial noise</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/gn_dog.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/10_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_wPOS.gif"></td>
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/12_wPOS.gif"></td>
