@@ -2,7 +2,7 @@
 
 This repository is a display of the results of POS[Paper ID 6768].
 
-## Results comparison with good and bad noise
+## Results comparison with good and bad initial noise
 ### Model Scope
 <table class="center">
 <tr>
@@ -15,7 +15,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/121_woPOS.gif"></td>
 </tr>
 <!-- <tr>
-  <td width=25% style="text-align:center;">A man is speaking in front of the blackboard</td>
+  <td width=25% style="text-align:center;">A dog wearing a Superhero outfit with red cape flying through the sky</td>
   <td width=25% style="text-align:center;">A couple is watching the sunset on the lawn</td>
   <td width=25% style="text-align:center;">A girl is singing among the flowers</td>
   <td width=25% style="text-align:center;">A woman is doing yoga in the sunset</td>
@@ -31,7 +31,7 @@ This repository is a display of the results of POS[Paper ID 6768].
   <td><img src="https://github.com/StevensXu/demo/blob/main/data/12_wPOS.gif"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;">A man is speaking in front of the blackboard</td>
+  <td width=25% style="text-align:center;">A dog wearing a Superhero outfit with red cape flying through the sky</td>
   <td width=25% style="text-align:center;">A couple is watching the sunset on the lawn</td>
   <td width=25% style="text-align:center;">A girl is singing among the flowers</td>
   <td width=25% style="text-align:center;">A woman is doing yoga in the sunset</td>
