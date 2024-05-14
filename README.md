@@ -3,7 +3,7 @@
 This repository is a display of the results of POS[Paper ID 1228].
 
 ## Results comparison with good and bad initial noise
-### Model Scope
+### ModelScope
 <table class="center">
 <tr>
   <td style="text-align:center;"colspan="4"><b>Bad initial noise</b></td>
