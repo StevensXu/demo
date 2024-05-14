@@ -2,6 +2,43 @@
 
 This repository is a display of the results of POS[Paper ID 6768].
 
+## Results comparison with good and bad noise
+### Model Scope
+<table class="center">
+<tr>
+  <td style="text-align:center;"colspan="4"><b>Bad initial noise</b></td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/10_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_woPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/121_woPOS.gif"></td>
+</tr>
+<!-- <tr>
+  <td width=25% style="text-align:center;">A man is speaking in front of the blackboard</td>
+  <td width=25% style="text-align:center;">A couple is watching the sunset on the lawn</td>
+  <td width=25% style="text-align:center;">A girl is singing among the flowers</td>
+  <td width=25% style="text-align:center;">A woman is doing yoga in the sunset</td>
+</tr> -->
+  
+<tr>
+  <td style="text-align:center;"colspan="4"><b>Good initial noise</b></td>
+</tr>
+<tr>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/1_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/10_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/11_wPOS.gif"></td>
+  <td><img src="https://github.com/StevensXu/demo/blob/main/data/12_wPOS.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;">A man is speaking in front of the blackboard</td>
+  <td width=25% style="text-align:center;">A couple is watching the sunset on the lawn</td>
+  <td width=25% style="text-align:center;">A girl is singing among the flowers</td>
+  <td width=25% style="text-align:center;">A woman is doing yoga in the sunset</td>
+</tr>
+</table>
+
+
 ## Video qualitative results
 ### Real-World Videos(ModelScope)
 <table class="center">
