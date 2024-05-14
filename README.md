@@ -1,6 +1,6 @@
 # POS: A Prompts Optimization Suite for Augmenting Text-to-Video Generation
 
-This repository is a display of the results of POS[Paper ID 6768].
+This repository is a display of the results of POS[Paper ID 1228].
 
 ## Results comparison with good and bad initial noise
 ### Model Scope
